@@ -1,10 +1,7 @@
 # git-config
 
-[credential]
-	helper = store
-[user]
-	email = devmateusramos@gmail.com
-	name = devmateusramos
+Algumas configs legais de git
+
 [core]
 	editor = code --wait
 [alias]
